@@ -52,7 +52,7 @@ It is designed to run in **Google Colab CPU**.
 
 ## Dataset
 
-The notebook uses the Marine Litter Watch dataset:
+The notebook uses the Marine Litter Watch dataset [https://www.kaggle.com/datasets/maartenvandevelde/marine-litter-watch-19502021](https://www.kaggle.com/datasets/maartenvandevelde/marine-litter-watch-19502021):
 
 ```text
 MLW_Data.csv
